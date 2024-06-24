@@ -1,0 +1,2 @@
+Arguments: Arguments are specified after the function name, inside the parentheses.
+Arrays: An array is a special variable, which can hold more than one value at a time.

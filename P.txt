@@ -1,0 +1,2 @@
+Parameters: A parameter is the variable listed inside the parentheses in the function definition.
+Python: & C:/Users/miche_u2wdjbp/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/miche_u2wdjbp/OneDrive/Desktop/Projecto Python/Glosario/glosario.py"Python es un lenguaje de programaci n popular. Fue creado por Guido van Rossum, y lanzado en 1991.

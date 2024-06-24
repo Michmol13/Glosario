@@ -1,0 +1,2 @@
+Casting: Casting in python is therefore done using constructor functions: int, float, str
+Classes: A Class is like an object constructor, or a "blueprint" for creating objects.

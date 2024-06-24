@@ -1,0 +1,2 @@
+Negative Indexing: Use negative indexes to start the slice from the end of the string
+Numbers: There are three numeric types in Python. Int, float, complex

@@ -1,0 +1,1 @@
+Variables: Las variables son contenedores para almacenar valores de datos.
